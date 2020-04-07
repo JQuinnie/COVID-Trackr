@@ -1,7 +1,7 @@
 {
   "name": "covid-trackr",
   "version": "0.1.0",
-  "homepage": "https://github.com/JQuinnie/covid-trackr",
+  "homepage": "https://jquinnie.github.io/covid-trackr/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.9",
