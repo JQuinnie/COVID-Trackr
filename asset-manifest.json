@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/JQuinnie/covid-trackr/static/css/main.6c95eb11.chunk.css",
-    "main.js": "/JQuinnie/covid-trackr/static/js/main.0dbdb6a5.chunk.js",
-    "main.js.map": "/JQuinnie/covid-trackr/static/js/main.0dbdb6a5.chunk.js.map",
-    "runtime-main.js": "/JQuinnie/covid-trackr/static/js/runtime-main.59702c45.js",
-    "runtime-main.js.map": "/JQuinnie/covid-trackr/static/js/runtime-main.59702c45.js.map",
-    "static/js/2.040c2247.chunk.js": "/JQuinnie/covid-trackr/static/js/2.040c2247.chunk.js",
-    "static/js/2.040c2247.chunk.js.map": "/JQuinnie/covid-trackr/static/js/2.040c2247.chunk.js.map",
-    "index.html": "/JQuinnie/covid-trackr/index.html",
-    "precache-manifest.053b4d63fd8f6090ddd6b50a502d299a.js": "/JQuinnie/covid-trackr/precache-manifest.053b4d63fd8f6090ddd6b50a502d299a.js",
-    "service-worker.js": "/JQuinnie/covid-trackr/service-worker.js",
-    "static/css/main.6c95eb11.chunk.css.map": "/JQuinnie/covid-trackr/static/css/main.6c95eb11.chunk.css.map",
-    "static/js/2.040c2247.chunk.js.LICENSE.txt": "/JQuinnie/covid-trackr/static/js/2.040c2247.chunk.js.LICENSE.txt",
-    "static/media/image.png": "/JQuinnie/covid-trackr/static/media/image.d7265326.png"
+    "main.css": "/covid-trackr/static/css/main.6c95eb11.chunk.css",
+    "main.js": "/covid-trackr/static/js/main.0dbdb6a5.chunk.js",
+    "main.js.map": "/covid-trackr/static/js/main.0dbdb6a5.chunk.js.map",
+    "runtime-main.js": "/covid-trackr/static/js/runtime-main.418a069d.js",
+    "runtime-main.js.map": "/covid-trackr/static/js/runtime-main.418a069d.js.map",
+    "static/js/2.f80cd687.chunk.js": "/covid-trackr/static/js/2.f80cd687.chunk.js",
+    "static/js/2.f80cd687.chunk.js.map": "/covid-trackr/static/js/2.f80cd687.chunk.js.map",
+    "index.html": "/covid-trackr/index.html",
+    "precache-manifest.d1ff3ea15c65f62a4b301f0785d2a6fe.js": "/covid-trackr/precache-manifest.d1ff3ea15c65f62a4b301f0785d2a6fe.js",
+    "service-worker.js": "/covid-trackr/service-worker.js",
+    "static/css/main.6c95eb11.chunk.css.map": "/covid-trackr/static/css/main.6c95eb11.chunk.css.map",
+    "static/js/2.f80cd687.chunk.js.LICENSE.txt": "/covid-trackr/static/js/2.f80cd687.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/covid-trackr/static/media/image.d7265326.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.59702c45.js",
-    "static/js/2.040c2247.chunk.js",
+    "static/js/runtime-main.418a069d.js",
+    "static/js/2.f80cd687.chunk.js",
     "static/css/main.6c95eb11.chunk.css",
     "static/js/main.0dbdb6a5.chunk.js"
   ]
