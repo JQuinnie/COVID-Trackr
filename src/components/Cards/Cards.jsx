@@ -11,6 +11,7 @@ const Cards = ({ data: { confirmed, recovered, deaths, lastUpdate }}) => {
     return <h2>Loading...</h2>
   }
 
+  // TODO: refactor each of these cards
   return (
     <div className={styles.container}>
       <Grid container spacing={3} justify='center'>

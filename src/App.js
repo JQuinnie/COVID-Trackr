@@ -22,7 +22,6 @@ const App = () => {
             lastUpdate,
           };
 
-          console.log(modifiedData);
           setData(modifiedData);
         })
         .catch((error) => console.error(error));
